@@ -1,2 +1,0 @@
-# react-pjt
-react test
